@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><html><body><h1>It works~~~~~~~~~~</h1></body></html>
